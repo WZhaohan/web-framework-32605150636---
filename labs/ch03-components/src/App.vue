@@ -105,6 +105,7 @@ section {
   gap: 12px;
 }
 
+
 @media (max-width: 720px) {
   .pair {
     grid-template-columns: 1fr;
