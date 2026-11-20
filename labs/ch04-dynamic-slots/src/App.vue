@@ -33,6 +33,9 @@ import NamedSlotLab from './experiments/04-named-slot/NamedSlotLab.vue'
 import ScopedSlotLab from './experiments/05-scoped-slot/ScopedSlotLab.vue'
 import ResumeLab from './experiments/06-resume/ResumeLab.vue'
 import DirectiveLab from './experiments/07-directive/DirectiveLab.vue'
+import Center from '../views/04-nested/Center.vue'
+import CenterProfile from '../views/04-nested/CenterProfile.vue'
+import CenterOrders from '../views/04-nested/CenterOrders.vue'
 
  export default {
    name: 'App',
