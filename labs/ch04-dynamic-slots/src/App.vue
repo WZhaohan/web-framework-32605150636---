@@ -25,6 +25,7 @@
 </template>
 
 ```js
+
 <script>
 import DynamicLab from './experiments/01-dynamic/DynamicLab.vue'
 import KeepAliveLab from './experiments/02-keepalive/KeepAliveLab.vue'
